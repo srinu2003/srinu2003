@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @srinu2003
-- 🎓 Studing B.tech in Computer Science Engineering  at 🏫 [MLR Institute of Technology and Management](https://mlritm.ac.in/)
+- 🎓 Pursuing B.tech in Computer Science Engineering  at 🏫 [MLR Institute of Technology and Management](https://mlritm.ac.in/)
 - 📫 tsrin2003@gmail.com
 - 👀 I’m interested in Design and Dvelopment
 - 🌱 I’m currently learning JAVA/[Flutter](https://flutter.dev/)/HTML
