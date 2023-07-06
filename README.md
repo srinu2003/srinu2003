@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @srinu2003
 - 🎓 Pursuing B.tech in Computer Science Engineering  at 🏫 [MLR Institute of Technology and Management](https://mlritm.ac.in/)
 - 📫 tsrin2003@gmail.com
-- 👀 I’m interested in Design and Dvelopment
+- 👀 I’m interested in Design and Development
 - 🌱 I’m currently learning JAVA/[Flutter](https://flutter.dev/)/HTML
 <!-- - 💞️ I’m looking to collaborate on ... -->
 ---
@@ -13,8 +13,8 @@ You can click the Preview link to take a look at your changes.
 ```mermaid
 
 graph TB;
-    A((8))-->B((3))
-    A-->C((10))
+    A((Stasrt))-->B((Work))
+    A-->C((Work))
     B-->D((1))
     B-->E((6))
     C-->F((9))
