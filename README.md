@@ -13,13 +13,12 @@ You can click the Preview link to take a look at your changes.
 ```mermaid
 
 graph TB;
-    A((Stasrt))-->B((Work))
-    A-->C((Work))
-    B-->D((1))
-    B-->E((6))
-    C-->F((9))
-    C-->G((14))
-    E-->H((4))
-    E-->I((7))
+    A((Start))-->B((Try))
+    A-->C((! try))
+    B-->D((Learned))
+    B-->E((Failed))
+    C-->F((! Learned))
+    C-->G((!Success))
+    E-->H((Try again))
+    E-->I((Success))
 ```
-
