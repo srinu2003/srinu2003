@@ -18,7 +18,7 @@ graph TB;
     B-->D((Learned))
     B-->E((Failed))
     C-->F((! Learned))
-    C-->G((!Success))
+    C-->G((! Success))
     E-->H((Try again))
     E-->I((Success))
 ```
