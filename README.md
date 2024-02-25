@@ -1,5 +1,3 @@
-https://drive.google.com/drive/folders/1eCz_Ja0imeJLWdyWMj_KDtgBg2L2Kuw4
-
 - 👋 Hi, I’m @srinu2003
 - 🎓 Pursuing B.tech in Computer Science Engineering  at 🏫 [MLR Institute of Technology and Management](https://mlritm.ac.in/)
 - 📫 tsrin2003@gmail.com
