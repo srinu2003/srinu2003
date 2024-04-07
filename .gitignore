@@ -2,3 +2,19 @@
 .idea/
 auxil/
 out/
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.pdf
+*.bbl
+*.out
+# *.blg
+# *.bcf
+# *.run.xml
+# *.toc
+# *.lof
+# *.lot
+# *.idx
+# *.ind
