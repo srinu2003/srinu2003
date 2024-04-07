@@ -8,6 +8,7 @@ out/
 *.fdb_latexmk
 *.synctex.gz
 *.pdf
+!Srinivas-Rao-Tammireddy-resume.pdf
 *.bbl
 *.out
 # *.blg
