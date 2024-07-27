@@ -21,6 +21,9 @@ graph TB;
     C-->F((! Learned))
     C-->G((! Success))
     E-->H((Improve))
+    D-->H((Improve))
     H-->B
-    E-->I((Success))
+    B-->I((Success))
+    H-->I((Success))
+    %% D-->I((Success))
 ```
