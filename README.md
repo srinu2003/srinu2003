@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=srinu2003&color=green&style=flat-square)
+
 - 👋 Hi, I’m @srinu2003
 - 🎓 Pursuing B.tech in Computer Science Engineering  at 🏫 [MLR Institute of Technology and Management](https://mlritm.ac.in/)
 - 📫 tsrin2003@gmail.com
