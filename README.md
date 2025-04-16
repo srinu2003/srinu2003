@@ -4,7 +4,7 @@
 - 🎓 Pursuing B.tech in Computer Science Engineering  at 🏫 [MLR Institute of Technology and Management](https://mlritm.ac.in/)
 - 📫 tsrin2003@gmail.com
 - 👀 I’m interested in Design and App Development
-- 🌱 I’m currently learning [Flutter](https://flutter.dev/) 🎯, Streamlit, LaTeX
+- 🌱 I’m currently learning Flask, [Flutter](https://flutter.dev/) 🎯, Streamlit.
 - https://developers.google.com/profile/u/tsrinu2003
 <!-- - 💞️ I’m looking to collaborate on ... -->
 ---
