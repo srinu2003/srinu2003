@@ -1,10 +1,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=srinu2003&color=green&style=flat-square)
 
 - 👋 Hi, I’m @srinu2003
-- 🎓 Pursuing B.tech in Computer Science Engineering  at 🏫 [MLR Institute of Technology and Management](https://mlritm.ac.in/)
+- 🎓 Pursued B.tech in Computer Science Engineering  at 🏫 [MLR Institute of Technology and Management](https://mlritm.ac.in/)
 - 📫 tsrin2003@gmail.com
-- 👀 I’m interested in Design and App Development
-- 🌱 I’m currently learning Flask, [Flutter](https://flutter.dev/) 🎯, Streamlit.
+- 👀 I’m interested in Design and Application Development
+- 🌱 I’m currently learning Salesforfce.
 - https://developers.google.com/profile/u/tsrinu2003
 <!-- - 💞️ I’m looking to collaborate on ... -->
 ---
