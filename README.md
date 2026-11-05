@@ -10,8 +10,8 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ntbang0901/ntbang0901/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/ntbang0901/ntbang0901/output/github-snake.svg" width="100%" alt="contribution graph eaten by a snake">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srinu003/srinu003/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/srinu003/srinu003/output/github-snake.svg" width="100%" alt="contribution graph eaten by a snake">
 </picture>
 
 <!-- -
